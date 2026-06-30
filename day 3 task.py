@@ -1,6 +1,7 @@
  # task 1
 
-'''#
+'''
+#
 for i in range (7):
      print ("vishrudh")
 
@@ -39,7 +40,8 @@ for i in range(1,11):
 #
 name = input("enter a name:")
 count= len(name)
-print("Number of letter=",count)'''
+print("Number of letter=",count)
+'''
 #task 9
 #
 word = input("enter a word:")
